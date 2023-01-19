@@ -17,10 +17,12 @@
     <None Remove="Controllers\" />
     <None Remove="Brokers\" />
     <None Remove="Brokers\DateTime\" />
+    <None Remove="Brokers\Loggings\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Brokers\" />
     <Folder Include="Brokers\DateTime\" />
+    <Folder Include="Brokers\Loggings\" />
   </ItemGroup>
 </Project>
